@@ -5,4 +5,4 @@ dotenv.config();
 
 connectToDatabase();
 
-require('./modules/express');
+require('./express');
